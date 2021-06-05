@@ -1,0 +1,3 @@
+[submodule "PDE-FIND"]
+	path = PDE-FIND
+	url = https://github.com/snagcliffs/PDE-FIND
